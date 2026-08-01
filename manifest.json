@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Slides the caption away from wherever the subject is looking, so text never blocks their eyeline.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
